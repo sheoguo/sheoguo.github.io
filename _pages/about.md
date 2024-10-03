@@ -11,6 +11,8 @@ Hi! I am **Shuao Guo**(you can call me sheo/ʃiːoʊ/). I am currently on my gap
 
 Education
 ======
+<small>
+  
 ### Institute of Scientific and Technical Information of China:
 - **Degree**: Master’s Degree in Competitive Intelligence
 - **Time**: Sep. 2021 - Jan. 2024
@@ -21,6 +23,7 @@ Education
 - **Time**: Sep. 2017 - Jun. 2021
 - **Affiliated Department**: College of Electrical Engineering
 
+</small>
 
   
 
