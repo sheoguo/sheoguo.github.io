@@ -15,6 +15,7 @@ Education
 - **Degree**: Master’s Degree in Competitive Intelligence
 - **Time**: September 2021 - January 2024
 - **Affiliated Department**: Research Center of Information Theory and Methodology
+
 ### Henan University of Technology:
 - **Degree**: Bachelor’s Degree in Automation
 - **Time**: Sep. 2017 - Jun. 2021
