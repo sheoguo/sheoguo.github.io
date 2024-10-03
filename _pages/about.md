@@ -13,12 +13,14 @@ Education
 ======
 ### Institute of Scientific and Technical Information of China:
 - **Degree**: Master’s Degree in Competitive Intelligence
-- **Time**: September 2021 - January 2024
+- **Time**: Sep. 2021 - Jan. 2024
 - **Affiliated Department**: Research Center of Information Theory and Methodology
 
 ### Henan University of Technology:
 - **Degree**: Bachelor’s Degree in Automation
-- **Time**: September 2017 - June 2021
+- **Time**: Sep. 2017 - Jun. 2021
 - **Affiliated Department**: College of Electrical Engineering
+
+
   
 
