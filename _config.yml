@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "sheo's website"
 title_separator          : "-"
-name                     : &name "Shuao Guo"
-description              : &descrption "personal description"
+name                     : "Shuao Guo"
+description              : "personal description"
 url                      : https://sheoguo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sheoguo/sheoguo.github.io"
