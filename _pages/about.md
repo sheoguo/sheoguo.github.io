@@ -12,13 +12,12 @@ Hi! I am **Shuao Guo**(you can call me sheo/ʃiːoʊ/). I am currently on my gap
 Education
 ======
 <small>
+  
 ### Institute of Scientific and Technical Information of China:
 - **Degree**: Master’s Degree in Competitive Intelligence
 - **Time**: September 2021 - January 2024
 - **Affiliated Department**: Research Center of Information Theory and Methodology
-</small>
 
-<small>
 ### Henan University of Technology:
 - **Degree**: Bachelor’s Degree in Automation
 - **Time**: September 2017 - June 2021
