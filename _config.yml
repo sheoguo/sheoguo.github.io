@@ -21,7 +21,7 @@ repository               : "sheoguo/sheoguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Shuao Guo"
   pronouns         : "she/her"  
   bio              : "a happy NLPer and AIer"
