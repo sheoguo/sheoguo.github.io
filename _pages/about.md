@@ -18,6 +18,6 @@ Education
 
 ### Henan University of Technology:
 - **Degree**: Bachelor’s Degree in Automation
-- **Time**: Sep. 2017 - Jun. 2021
+- **Time**: September 2017 - June 2021
 - **Affiliated Department**: College of Electrical Engineering
 
