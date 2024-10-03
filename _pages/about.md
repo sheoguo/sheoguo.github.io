@@ -12,5 +12,8 @@ Hi! I am Shuao Guo(you can call me sheo/ʃiːoʊ/). I am currently on my gap yea
 Education
 ======
 
-Institue of Scientific and Technical Information of China, Research Center of Information Theory and Methodology  Master's degree in Competitive Intelligence Sep.2021 - Jan.2024 
+Institue of Scientific and Technical Information of China <br> 
+Research Center of Information Theory and Methodology <br> 
+Master's degree in Competitive Intelligence <br>
+Sep.2021 - Jan.2024 
 Henan University of Technology, College of Electrical Engineering   Bachelor's degree in Automation   Sep.2017 - Jun.2021 
