@@ -17,6 +17,7 @@ Education
 - **Time**: September 2021 - January 2024
 - **Affiliated Department**: Research Center of Information Theory and Methodology
 </small>
+
 <small>
 ### Henan University of Technology:
 - **Degree**: Bachelor’s Degree in Automation
