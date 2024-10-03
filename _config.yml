@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "sheo's website"
 title_separator          : "-"
 name                     : &name "Shuao Guo"
-description              : &description "personal description"
-url                      : https://sheoguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &descrption "personal description"
+url                      : https://sheoguo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sheoguo/sheoguo.github.io"
 
