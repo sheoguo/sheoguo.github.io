@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sheo's scholar page"
 title_separator          : "-"
-name                     : "Shuao Guo(郭姝澳)"
+name                     : "Shuao Guo"
 description              : "a happy NLPer and AIer"
 url                      : https://sheoguo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "sheoguo/sheoguo.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Shuao Guo"
+  name             : "Shuao Guo(郭姝澳)"
   pronouns         : "she/her"  
   bio              : "a happy NLPer and AIer"
   location         : "Xinxiang,Henan,China"
