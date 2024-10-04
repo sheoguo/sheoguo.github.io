@@ -21,6 +21,3 @@ Education
 - **Time**: Sep. 2017 - Jun. 2021
 - **Affiliated Department**: College of Electrical Engineering
 
-
-  
-
