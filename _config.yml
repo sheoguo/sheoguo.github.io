@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sheo's scholar page"
 title_separator          : "-"
-name                     : "Shuao Guo"
+name                     : "Shuao Guo(郭姝澳)"
 description              : "a happy NLPer and AIer"
 url                      : https://sheoguo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
