@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Istic Neural Machine Translation System for EvaHan 2023"
 collection: publications
-category: manuscripts
+category: Conference
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper presents the system architecture and the technique details adopted by Institute of Scientific and Technical Information of China (ISTIC) in the evaluation of First Conference on EvaHan(2023). In this evaluation, ISTIC participated in two tasks of Ancient Chinese Machine Translation: Ancient Chinese to Modern Chinese and Ancient Chinese to English. The paper mainly elaborates the model framework and data processing methods adopted in ISTIC’s system. Finally a comparison and analysis of different machine translation systems are also given.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'ALT2023: Ancient Language Translation Workshop (alt)'
+paperurl: 'http://academicpages.github.io/files/EvaHan2023.pdf'
+citation: 'Ningyuan Deng, Shuao Guo, and Yanqing He. 2023. Istic Neural Machine Translation System for EvaHan 2023. In Proceedings of ALT2023: Ancient Language Translation Workshop, pages 34–42, Macau SAR, China. Asia-Pacific Association for Machine Translation.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
