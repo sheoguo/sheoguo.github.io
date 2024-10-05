@@ -10,10 +10,7 @@ main:
 
   - title: "News"
     url: /talks/     
-    
-  - title: "CV"
-    url: /cv/
 
-  - title: "Portfolio"
+  - title: "personal life"
     url: /portfolio/
 
