@@ -25,6 +25,8 @@ Education
 
 Research Topics
 ======
-Here is a visual representation of my research focus areas:
+My past research experience and project involvement mainly focus on the following topics:
 <br/><img src='http://sheoguo.github.io/images/researchtopic.png' alt="Research Topics" width="600">
+
+
 
