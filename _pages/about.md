@@ -30,8 +30,9 @@ My past research experience and project involvement mainly focus on the followin
 
 Personal Life
 ======
-Outside of work, I am a dedicated football fan. Henan Yanye is my favorite football club, which is located in my hometown Henan Province,China. Another FC I support is Barcelona.<span style="color: red;">Visca</span> <span style="color: blue;">Barça!</span>
-
+Outside of work, I am a dedicated football fan. Henan Jianye is my favorite football club, which is located in my hometown Henan Province and affiliated to China Super League. Another FC I support is Barcelona.<span style="color: red;">Visca</span> <span style="color: blue;">Barça!</span>
+Otherwise, I am a super Music lover. I have been playing guitar for 11 years and music is an important way for me to express emotions.
+I am not 
 
 
 
