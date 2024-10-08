@@ -28,5 +28,10 @@ Research Topics
 My past research experience and project involvement mainly focus on the following topics:
 <br/><img src='http://sheoguo.github.io/images/researchtopic.png' alt="Research Topics" width="600">
 
+Personal Life
+======
+Outside of work, I am a dedicated football fan. Henan Yanye is my favorite football club, which is located in my hometown Henan Province,China. Another FC I support is Barcelona.<span style="color: red;">Visca</span> <span style="color: blue;">Barça!</span>
+
+
 
 
