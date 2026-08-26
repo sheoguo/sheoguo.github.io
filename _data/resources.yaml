@@ -2,43 +2,44 @@ introduction: all software releases of the above projects can also be found here
 
 categories:
 
-  - data-filter: research
-    category-name: research
+  - data-filter: robot
+    category-name: robot
 
-  - data-filter: outreach
-    category-name: outreach
+  - data-filter: NLP
+    category-name: Natural Language Processing
+
+  - data-filter: multimodal
+    category-name: multimodal
   
-  - data-filter: misc
-    category-name: miscellaneous
+  - data-filter: football
+    category-name: football 
+
+  - data-filter: entertainment
+    category-name: entertainment
 
 links:
 
-  - git-api: https://api.github.com/repos/mkhangg/refined_panoptic_mapping
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/HenanFC-DataLab
+    category: football
 
-  - git-api: https://api.github.com/repos/mkhangg/v3d-slam
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/NeteaseCloudMusicApi
+    category: entertainment
 
-  - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/CLC-data-scraping
+    category: NLP
   
-  - git-api: https://api.github.com/repos/mkhangg/academic-website
-    category: misc
+  - git-api: https://api.github.com/repos/sheoguo/chinese_library_classification
+    category: NLP
 
-  - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/HWDB1.1-gnt2png
+    category: multimodal
 
-  - git-api: https://api.github.com/repos/mkhangg/calib_cobot
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/similaritycompute
+    category: NLP
 
-  - git-api: https://api.github.com/repos/mkhangg/perception_framework
-    category: research
+  - git-api: https://api.github.com/repos/sheoguo/Asianlp
+    category: NLP
 
-  - git-api: https://api.github.com/repos/mkhangg/hackmit22
-    category: outreach
+  - git-api: https://api.github.com/repos/sheoguo/sheoguo.github.io
+    category: entertainment
 
-  - git-api: https://api.github.com/repos/tuantdang/iotree
-    category: research
-
-  - git-api: https://api.github.com/repos/mkhangg/robotech22
-    category: outreach
