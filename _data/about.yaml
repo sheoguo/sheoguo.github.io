@@ -35,8 +35,8 @@ research-introduction: During my master period, my research mainly focused on <c
 
 research-interests:
 
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  - field: Natural Language Processing
+    subfields: Vision-Language Model，Machine Translation, Information system
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: Human-Robot Interaction
+    subfields: Vision-Language-Action Model, Context-aware HRI, Social robots
