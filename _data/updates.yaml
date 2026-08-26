@@ -1,81 +1,57 @@
 updates:
 
-  - picture: assets/img/updates_gan/boy_cochair.jpg
-    desc: I will serve as co-chair for the <hightlight>Object Detection session</hightlight> at IROS 2024.
-    time: October 2024
-
-  - picture: assets/img/updates_gan/abudhabi_boy.jpg
-    desc: I will attend IROS 2024 in <hightlight>Abu Dhabi, UAE</hightlight>.
-    time: October 2024
-
-  - picture: assets/img/updates_gan/fix_robot.jpg
-    desc: I will be the GTA for <hightlight>CSE 4360 (Robotics) course</hightlight> this semester!
-    time: August 2024
-
-  - picture: assets/img/updates_gan/scanner_bots.jpg
-    desc: <hightlight>V3D-SLAM</hightlight> and <hightlight>Refined PanMap</hightlight> papers are accepted at IROS 2024!
-    time: June 2024
-
-  - picture: assets/img/updates_gan/lab_boy.jpg
-    desc: I will continue my <hightlight>PhD studies in robotics</hightlight> at the LEARN Lab. 
-    time: May 2024
-
-  - picture: assets/img/updates_gan/graduation_boy.jpg
-    desc: I finished my <hightlight>undergrad studies in computer science</hightlight> at UTA.
-    time: May 2024
-
-  - picture: assets/img/updates_gan/city_boy.jpg
-    desc: I will attend IROS 2023 in <hightlight>Detroit, Michigan</hightlight>. 
-    time: October 2023
+  - picture: assets/img/updates_gan/14.png
+    desc: I joined Vasto builders as Marketing Assistant and explored AI agent development in construction field.
+    time: March 2026
   
-  - picture: assets/img/updates_gan/travel_boy.jpg
-    desc: I will present at ISR 2023 in <hightlight>Stuttgart, Germany</hightlight>. 
+  - picture: assets/img/updates_gan/13.png
+    desc: With consistent community-building efforts, the fan club has now reached 1,000 registered members.
+    time: December 2025
+   
+  - picture: assets/img/updates_gan/12.jpg
+    desc: During my gap year, I founded a dedicated supporters' club—<hightlight>Henan FC Loyal Follower</hightlight>—for my hometown football team.
+    time: May 2024
+
+  - picture: assets/img/updates_gan/11.png
+    desc: I completed my master's degree in Competitive Intelligence from ISTIC.
+    time: January 2024
+
+  - picture: assets/img/updates_gan/10.png
+    desc: I attended CCMT2023 and made poster presentation..
+    time: November 2023
+
+  - picture: assets/img/updates_gan/9.png
+    desc: My paper about Ancient Chinese machine translation was accepted by <hightlight> ALT 2023 </hightlight>.
     time: September 2023
 
-  - picture: assets/img/updates_gan/holding_can_robot.jpg
-    desc: The <hightlight>deformable object classification</hightlight> paper is accepted at ISR 2023!
-    time: June 2023
+  - picture: assets/img/updates_gan/8.png
+    desc: My paper about multilingual neural machine translation for Southeast Asian languages was accepted by CCMT2023.
+    time: July 2023
 
-  - picture: assets/img/updates_gan/calibrating_robot.jpg
-    desc: The <hightlight>multiplanar self-calibration</hightlight> paper is accepted at IROS 2023!
-    time: June 2023
-
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
-    desc: My <hightlight>thesis proposal</hightlight> is approved by the Honors College!
-    time: June 2023
-
-  - picture: assets/img/updates_gan/reading_boy_2.jpg
-    desc: I am invited to review papers at <hightlight>CASE 2023</hightlight>.
-    time: April 2023
-
-  - picture: assets/img/updates_gan/happy_robot.jpg
-    desc: The <hightlight>PerFC</hightlight> paper is accepted at FLAIRS-36!
-    time: March 2023
-
-  - picture: assets/img/updates_gan/reading_boy.jpg
-    desc: I am invited to review papers at <hightlight>UR 2023</hightlight>.
-    time: February 2023
-  
-  - picture: assets/img/updates_gan/spider_bot.jpg
-    desc: <hightlight>Spidey</hightlight> won sponsorship prizes at HackMIT 2022! 
-    time: October 2022
-
-  - picture: assets/img/updates_gan/boy_robot.jpg
-    desc: I joined the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> at UTA.
-    time: August 2022
-    
-  - picture: assets/img/updates_gan/happy_tree.jpg
-    desc: The <hightlight>IoTree</hightlight> paper is accepted at MobiCom 2022!
+  - picture: assets/img/updates_gan/7.png
+    desc: The Neural Machine Translation system for Thailand-to-Chinese I developed ranked first place in CCMT2022 and the evaluation paper got accepted by CCMT2022.
     time: June 2022
+  
+  - picture: assets/img/updates_gan/6.png
+    desc: I joined the <hightlight>Natural Language Processing and Artificial Intelligence Lab (NLP and AI Lab)</hightlight>, which is affiliated to Research Center of Information Theory and Methodology at ISTIC. 
+    time: October 2021
 
-  - picture: assets/img/updates_gan/farm_bot.jpg
-    desc: <hightlight>iPlanter</hightlight> won prizes at GaTech RoboTech Hackathon 2022!
-    time: April 2022
+  - picture: assets/img/updates_gan/5.png
+    desc:  I started my Master’s program in Information Science at <hightlight> Institute of Scientific and Technical Information of China(ISTIC)</hightlight> and majored in Competitive intelligence.
+    time: Septermber 2021
     
-  - picture: assets/img/updates_gan/boy_systems.jpg
-    desc: I joined the <hightlight>Wireless and Sensor Systems Lab (WSSL)</hightlight> at UTA.
-    time: August 2021
+  - picture: assets/img/updates_gan/4.png
+    desc: I finished my <hightlight>undergrad studies</hightlight> at HAUT.
+    time: June 2021
 
-  - picture: assets/img/updates_gan/boy_school.jpg
-    desc: I start my undergrad at the <hightlight>University of Texas at Arlington (UTA)</hightlight>.
-    time: August 2020
+  - picture: assets/img/updates_gan/3.png
+    desc: I designed a 6-degree-of-freedom (6-DOF) robotic arm based on sliding mode control as my graduation project.
+    time: April 2021
+    
+  - picture: assets/img/updates_gan/2.png
+    desc: I joined the <hightlight> Electronics and Technology Association</hightlight> at HAUT.
+    time: May 2018
+
+  - picture: assets/img/updates_gan/1.jpg
+    desc: I start my undergrad at the <hightlight>Henan University of Technology</hightlight>, where I majored in Automation in the School of Electrical Engineering.
+    time: September 2017
