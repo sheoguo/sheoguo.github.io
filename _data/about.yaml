@@ -1,7 +1,7 @@
 # basic information
 name: Sheo Guo
 profile-pic: assets/img/shuao.png
-pronunciation: /ˈʃiːəʊ/
+pronunciation: /ˈʃiːəʊ ɡwɔ/
 pronunciation-emoji: 🎧
 
 # emoji indicator
@@ -9,24 +9,24 @@ emoji: 🌻
 desc-emoji: sunflower
 
 # social links
-scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
-researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-github: https://github.com/mkhangg
-youtube: https://www.youtube.com/@_m.khangg_
-resume: assets/doc/Resume_KhangNguyen.pdf
+scholar: https://scholar.google.com/citations?user=lbHOD9QAAAAJ
+researchgate: https://www.researchgate.net/scientific-contributions/Shuao-Guo-2238054153
+github: https://github.com/sheoguo
+youtube: https://www.youtube.com/@sheoguo9575
+resume: assets/doc/ShuaoGuo_CV.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
-location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
+location: https://maps.app.goo.gl/8XGeuRma4q2QviFo6
 codepen: 
-orcid: https://orcid.org/0000-0003-3471-5533
+orcid: 
 contact: show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
-dept: cse @ uta
-lab: learn lab @ erb 128
-email: khang.nguyen@uta.edu
-phone: +1 (470) 815-5812
-website: https://mkhangg.com/
-web-dns: mkhangg.com
+dept: 
+lab: 
+email: sheoguo@gmail.com
+phone: 
+website: 
+web-dns: 
 
 # about me
 first-paragraph: I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
